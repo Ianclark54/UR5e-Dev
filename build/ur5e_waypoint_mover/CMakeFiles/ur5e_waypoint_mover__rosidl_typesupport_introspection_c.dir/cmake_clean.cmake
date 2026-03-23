@@ -1,0 +1,25 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.c.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.c.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.c.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.c.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.c.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.c.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.c.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.c.o.d"
+  "libur5e_waypoint_mover__rosidl_typesupport_introspection_c.pdb"
+  "libur5e_waypoint_mover__rosidl_typesupport_introspection_c.so"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/add_waypoint__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.c"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/execute_waypoints__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.c"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/list_waypoints__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.c"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/move_to_point__rosidl_typesupport_introspection_c.h"
+  "rosidl_typesupport_introspection_c/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.c"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_introspection_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,4 @@
+/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover/rosidl_adapter/ur5e_waypoint_mover:srv/AddWaypoint.idl
+/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover/rosidl_adapter/ur5e_waypoint_mover:srv/MoveToPoint.idl
+/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover/rosidl_adapter/ur5e_waypoint_mover:srv/ExecuteWaypoints.idl
+/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover/rosidl_adapter/ur5e_waypoint_mover:srv/ListWaypoints.idl

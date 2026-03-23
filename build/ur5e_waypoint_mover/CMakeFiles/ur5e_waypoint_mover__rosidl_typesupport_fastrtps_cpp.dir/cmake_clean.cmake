@@ -1,0 +1,25 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/add_waypoint__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/add_waypoint__type_support.cpp.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/execute_waypoints__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/execute_waypoints__type_support.cpp.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/list_waypoints__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/list_waypoints__type_support.cpp.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/move_to_point__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/move_to_point__type_support.cpp.o.d"
+  "libur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.so"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/add_waypoint__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/add_waypoint__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/execute_waypoints__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/list_waypoints__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/dds_fastrtps/move_to_point__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/execute_waypoints__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/list_waypoints__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/ur5e_waypoint_mover/srv/detail/move_to_point__rosidl_typesupport_fastrtps_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

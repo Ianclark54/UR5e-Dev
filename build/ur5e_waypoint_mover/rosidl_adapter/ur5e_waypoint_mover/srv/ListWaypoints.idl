@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ur5e_waypoint_mover/srv/ListWaypoints.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+
+module ur5e_waypoint_mover {
+  module srv {
+    @verbatim (language="comment", text=
+      "Returns all currently stored named waypoints.")
+    struct ListWaypoints_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct ListWaypoints_Response {
+      sequence<string> labels;
+
+      sequence<geometry_msgs::msg::Pose> poses;
+    };
+  };
+};

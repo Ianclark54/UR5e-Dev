@@ -1,0 +1,7 @@
+# Execute all stored waypoints in sequence.
+# Set loop=true to repeat the sequence indefinitely (call clear_waypoints to stop).
+bool loop
+---
+bool success
+string message
+int32 waypoints_executed

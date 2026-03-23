@@ -1,0 +1,56 @@
+[0.017s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/ianclark54/ur5e_ws/src/UR5e_3DP/src/ur5e_description -DCMAKE_INSTALL_PREFIX=/home/ianclark54/ur5e_ws/install/ur5e_description
+[0.243s] -- The C compiler identification is GNU 13.3.0
+[0.661s] -- The CXX compiler identification is GNU 13.3.0
+[0.982s] -- Detecting C compiler ABI info
+[1.180s] -- Detecting C compiler ABI info - done
+[1.186s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.186s] -- Detecting C compile features
+[1.187s] -- Detecting C compile features - done
+[1.241s] -- Detecting CXX compiler ABI info
+[1.436s] -- Detecting CXX compiler ABI info - done
+[1.442s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.443s] -- Detecting CXX compile features
+[1.443s] -- Detecting CXX compile features - done
+[1.450s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.586s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.717s] -- Found urdf: 2.10.0 (/opt/ros/jazzy/share/urdf/cmake)
+[1.836s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[1.851s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[1.854s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.965s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.965s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.966s] -- Added test 'lint_cmake' to check CMake code style
+[1.967s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.969s] -- Added test 'xmllint' to check XML markup files
+[1.971s] -- Configuring done (1.9s)
+[1.978s] -- Generating done (0.0s)
+[1.980s] -- Build files have been written to: /home/ianclark54/ur5e_ws/build/ur5e_description
+[1.987s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/ianclark54/ur5e_ws/src/UR5e_3DP/src/ur5e_description -DCMAKE_INSTALL_PREFIX=/home/ianclark54/ur5e_ws/install/ur5e_description
+[1.989s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur5e_description -- -j16 -l16
+[2.037s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur5e_description -- -j16 -l16
+[2.052s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur5e_description
+[2.062s] -- Install configuration: ""
+[2.062s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/urdf
+[2.063s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/urdf/ur5e.urdf.xacro
+[2.063s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/launch
+[2.064s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/launch/simulate.launch.py
+[2.064s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/rviz
+[2.064s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/rviz/ur5e.rviz
+[2.065s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/meshes
+[2.065s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/meshes/Toolhead_V3_Assembly.STL
+[2.077s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ament_index/resource_index/package_run_dependencies/ur5e_description
+[2.077s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ament_index/resource_index/parent_prefix_path/ur5e_description
+[2.078s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/environment/ament_prefix_path.sh
+[2.078s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/environment/ament_prefix_path.dsv
+[2.078s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/environment/path.sh
+[2.078s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/environment/path.dsv
+[2.078s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/local_setup.bash
+[2.079s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/local_setup.sh
+[2.079s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/local_setup.zsh
+[2.079s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/local_setup.dsv
+[2.079s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/package.dsv
+[2.080s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ament_index/resource_index/packages/ur5e_description
+[2.080s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/cmake/ur5e_descriptionConfig.cmake
+[2.080s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/cmake/ur5e_descriptionConfig-version.cmake
+[2.081s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_description/share/ur5e_description/package.xml
+[2.083s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur5e_description

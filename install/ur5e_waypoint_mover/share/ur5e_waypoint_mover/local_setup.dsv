@@ -1,0 +1,4 @@
+source;share/ur5e_waypoint_mover/environment/ament_prefix_path.sh
+source;share/ur5e_waypoint_mover/environment/library_path.sh
+source;share/ur5e_waypoint_mover/environment/path.sh
+source;share/ur5e_waypoint_mover/environment/pythonpath.sh

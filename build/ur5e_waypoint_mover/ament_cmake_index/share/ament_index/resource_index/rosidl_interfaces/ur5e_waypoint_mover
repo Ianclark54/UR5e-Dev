@@ -1,0 +1,8 @@
+srv/AddWaypoint.idl
+srv/AddWaypoint.srv
+srv/ExecuteWaypoints.idl
+srv/ExecuteWaypoints.srv
+srv/ListWaypoints.idl
+srv/ListWaypoints.srv
+srv/MoveToPoint.idl
+srv/MoveToPoint.srv

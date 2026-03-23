@@ -1,0 +1,21 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/add_waypoint__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/add_waypoint__type_support.cpp.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/execute_waypoints__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/execute_waypoints__type_support.cpp.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/list_waypoints__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/list_waypoints__type_support.cpp.o.d"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/move_to_point__type_support.cpp.o"
+  "CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/rosidl_typesupport_c/ur5e_waypoint_mover/srv/move_to_point__type_support.cpp.o.d"
+  "libur5e_waypoint_mover__rosidl_typesupport_c.pdb"
+  "libur5e_waypoint_mover__rosidl_typesupport_c.so"
+  "rosidl_typesupport_c/ur5e_waypoint_mover/srv/add_waypoint__type_support.cpp"
+  "rosidl_typesupport_c/ur5e_waypoint_mover/srv/execute_waypoints__type_support.cpp"
+  "rosidl_typesupport_c/ur5e_waypoint_mover/srv/list_waypoints__type_support.cpp"
+  "rosidl_typesupport_c/ur5e_waypoint_mover/srv/move_to_point__type_support.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/ur5e_waypoint_mover__rosidl_typesupport_c.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

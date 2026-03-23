@@ -1,0 +1,243 @@
+[0.012s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover -- -j16 -l16
+[0.050s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.085s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.185s] -- Found rosidl_default_generators: 1.6.0 (/opt/ros/jazzy/share/rosidl_default_generators/cmake)
+[0.187s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.358s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.394s] -- Found rosidl_adapter: 4.6.7 (/opt/ros/jazzy/share/rosidl_adapter/cmake)
+[0.395s] -- Found geometry_msgs: 5.3.6 (/opt/ros/jazzy/share/geometry_msgs/cmake)
+[0.852s] -- Found ament_cmake_ros: 0.12.0 (/opt/ros/jazzy/share/ament_cmake_ros/cmake)
+[1.058s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.310s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.310s] -- Found python_cmake_module: 0.11.1 (/opt/ros/jazzy/share/python_cmake_module/cmake)
+[1.613s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter Development NumPy Development.Module Development.Embed 
+[1.655s] -- Configuring done (1.6s)
+[1.714s] -- Generating done (0.0s)
+[1.726s] -- Build files have been written to: /home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover
+[1.793s] [  1%] Built target ur5e_waypoint_mover__rosidl_generator_type_description
+[1.813s] [  1%] Built target ament_cmake_python_copy_ur5e_waypoint_mover
+[1.826s] [  3%] Built target ur5e_waypoint_mover__cpp
+[1.835s] [ 25%] Built target ur5e_waypoint_mover__rosidl_generator_c
+[1.880s] [ 34%] Built target ur5e_waypoint_mover__rosidl_typesupport_introspection_c
+[1.884s] [ 60%] Built target ur5e_waypoint_mover__rosidl_typesupport_c
+[1.884s] [ 62%] Built target ur5e_waypoint_mover__rosidl_typesupport_fastrtps_c
+[1.889s] [ 60%] Built target ur5e_waypoint_mover__rosidl_typesupport_cpp
+[1.890s] [ 71%] Built target ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp
+[1.893s] [ 81%] Built target ur5e_waypoint_mover__rosidl_typesupport_introspection_cpp
+[1.928s] [ 81%] Built target ur5e_waypoint_mover
+[1.963s] [ 82%] Built target ur5e_waypoint_mover__py
+[2.001s] [ 90%] Built target ur5e_waypoint_mover__rosidl_generator_py
+[2.045s] [ 93%] Built target ur5e_waypoint_mover_s__rosidl_typesupport_c
+[2.049s] [ 98%] Built target ur5e_waypoint_mover_s__rosidl_typesupport_introspection_c
+[2.049s] [100%] Built target ur5e_waypoint_mover_s__rosidl_typesupport_fastrtps_c
+[2.054s] running egg_info
+[2.069s] writing ur5e_waypoint_mover.egg-info/PKG-INFO
+[2.069s] writing dependency_links to ur5e_waypoint_mover.egg-info/dependency_links.txt
+[2.070s] writing top-level names to ur5e_waypoint_mover.egg-info/top_level.txt
+[2.133s] reading manifest file 'ur5e_waypoint_mover.egg-info/SOURCES.txt'
+[2.133s] writing manifest file 'ur5e_waypoint_mover.egg-info/SOURCES.txt'
+[2.171s] [100%] Built target ament_cmake_python_build_ur5e_waypoint_mover_egg
+[2.195s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover -- -j16 -l16
+[2.208s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover
+[2.223s] -- Install configuration: ""
+[2.223s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ament_index/resource_index/rosidl_interfaces/ur5e_waypoint_mover
+[2.223s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/AddWaypoint.json
+[2.223s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/MoveToPoint.json
+[2.223s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/ExecuteWaypoints.json
+[2.224s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/ListWaypoints.json
+[2.224s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover
+[2.225s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg
+[2.225s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg/rosidl_generator_c__visibility_control.h
+[2.225s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv
+[2.225s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/add_waypoint.h
+[2.226s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail
+[2.226s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__functions.c
+[2.226s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__functions.h
+[2.226s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.h
+[2.226s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__description.c
+[2.226s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.c
+[2.230s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__description.c
+[2.230s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__functions.c
+[2.230s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__struct.h
+[2.230s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__functions.h
+[2.231s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.c
+[2.231s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.c
+[2.231s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.h
+[2.231s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__description.c
+[2.231s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__struct.h
+[2.231s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.c
+[2.232s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__description.c
+[2.232s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__struct.h
+[2.232s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__functions.h
+[2.232s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__functions.h
+[2.232s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.h
+[2.232s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.h
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__functions.c
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__functions.c
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__struct.h
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/move_to_point.h
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/list_waypoints.h
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/execute_waypoints.h
+[2.233s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/library_path.sh
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/library_path.dsv
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_generator_c.so
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__rosidl_typesupport_fastrtps_c.h
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__rosidl_typesupport_fastrtps_c.h
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__rosidl_typesupport_fastrtps_c.h
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__rosidl_typesupport_fastrtps_c.h
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_typesupport_fastrtps_c.so
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.234s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv
+[2.235s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail
+[2.235s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__rosidl_typesupport_introspection_c.h
+[2.235s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.c
+[2.235s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__rosidl_typesupport_introspection_c.h
+[2.235s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.c
+[2.235s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.c
+[2.235s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.c
+[2.235s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__rosidl_typesupport_introspection_c.h
+[2.235s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__rosidl_typesupport_introspection_c.h
+[2.235s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_typesupport_introspection_c.so
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_typesupport_c.so
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/execute_waypoints.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/list_waypoints.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/move_to_point.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__builder.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__traits.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__struct.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__builder.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__traits.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__struct.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__struct.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.hpp
+[2.236s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__traits.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__struct.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__traits.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__builder.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__builder.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/add_waypoint.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__rosidl_typesupport_fastrtps_cpp.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__rosidl_typesupport_fastrtps_cpp.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/dds_fastrtps
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__rosidl_typesupport_fastrtps_cpp.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__rosidl_typesupport_fastrtps_cpp.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_typesupport_fastrtps_cpp.so
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__type_support.cpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__rosidl_typesupport_introspection_cpp.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__type_support.cpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/execute_waypoints__type_support.cpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/add_waypoint__rosidl_typesupport_introspection_cpp.hpp
+[2.237s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__type_support.cpp
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/list_waypoints__rosidl_typesupport_introspection_cpp.hpp
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/include/ur5e_waypoint_mover/ur5e_waypoint_mover/srv/detail/move_to_point__rosidl_typesupport_introspection_cpp.hpp
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_typesupport_introspection_cpp.so
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_typesupport_cpp.so
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/pythonpath.sh
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/pythonpath.dsv
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover-1.0.0-py3.12.egg-info
+[2.238s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover-1.0.0-py3.12.egg-info/top_level.txt
+[2.238s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover-1.0.0-py3.12.egg-info/SOURCES.txt
+[2.238s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover-1.0.0-py3.12.egg-info/dependency_links.txt
+[2.238s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover-1.0.0-py3.12.egg-info/PKG-INFO
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover
+[2.238s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/__init__.py
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/ur5e_waypoint_mover_s__rosidl_typesupport_introspection_c.so
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/_ur5e_waypoint_mover_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/ur5e_waypoint_mover_s__rosidl_typesupport_c.so
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/ur5e_waypoint_mover_s__rosidl_typesupport_fastrtps_c.so
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/_ur5e_waypoint_mover_s.ep.rosidl_typesupport_introspection_c.c
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/_ur5e_waypoint_mover_s.ep.rosidl_typesupport_c.c
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/__init__.py
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_move_to_point_s.c
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_execute_waypoints.py
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_list_waypoints.py
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_execute_waypoints_s.c
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_add_waypoint.py
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_move_to_point.py
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_add_waypoint_s.c
+[2.238s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv/_list_waypoints_s.c
+[2.274s] Listing '/home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover'...
+[2.274s] Compiling '/home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/__init__.py'...
+[2.274s] Listing '/home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/srv'...
+[2.279s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/ur5e_waypoint_mover_s__rosidl_typesupport_fastrtps_c.so
+[2.280s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/ur5e_waypoint_mover_s__rosidl_typesupport_introspection_c.so
+[2.280s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/python3.12/site-packages/ur5e_waypoint_mover/ur5e_waypoint_mover_s__rosidl_typesupport_c.so
+[2.280s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/libur5e_waypoint_mover__rosidl_generator_py.so
+[2.280s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/AddWaypoint.idl
+[2.281s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/MoveToPoint.idl
+[2.281s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/ExecuteWaypoints.idl
+[2.281s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/ListWaypoints.idl
+[2.281s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/AddWaypoint.srv
+[2.281s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/MoveToPoint.srv
+[2.281s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/ExecuteWaypoints.srv
+[2.282s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/srv/ListWaypoints.srv
+[2.282s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/ur5e_waypoint_mover/motion_planner_node.py
+[2.282s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/lib/ur5e_waypoint_mover/move_to_point_client.py
+[2.282s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/config
+[2.282s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/config/waypoints.yaml
+[2.282s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/launch
+[2.282s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/launch/motion_planner.launch.py
+[2.282s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ament_index/resource_index/package_run_dependencies/ur5e_waypoint_mover
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ament_index/resource_index/parent_prefix_path/ur5e_waypoint_mover
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/ament_prefix_path.sh
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/ament_prefix_path.dsv
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/path.sh
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/environment/path.dsv
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/local_setup.bash
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/local_setup.sh
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/local_setup.zsh
+[2.283s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/local_setup.dsv
+[2.283s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/package.dsv
+[2.284s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ament_index/resource_index/packages/ur5e_waypoint_mover
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_generator_cExport.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_generator_cExport-noconfig.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cExport.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_introspection_cExport.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_cExport.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_cExport-noconfig.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_generator_cppExport.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.290s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_introspection_cppExport.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_cppExport.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_mover__rosidl_typesupport_cppExport-noconfig.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_generator_pyExport.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/export_ur5e_waypoint_mover__rosidl_generator_pyExport-noconfig.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/rosidl_cmake-extras.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ament_cmake_export_libraries-extras.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ament_cmake_export_targets-extras.cmake
+[2.291s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.292s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.292s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_moverConfig.cmake
+[2.297s] -- Up-to-date: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/cmake/ur5e_waypoint_moverConfig-version.cmake
+[2.297s] -- Installing: /home/ianclark54/ur5e_ws/install/ur5e_waypoint_mover/share/ur5e_waypoint_mover/package.xml
+[2.297s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur5e_waypoint_mover

@@ -1,0 +1,15 @@
+ur5e_waypoint_mover:
+  ros__parameters:
+    planning_group: "ur_manipulator"
+    end_effector_link: "tool0"
+    base_frame: "base_link"
+    planning_time: 5.0
+    max_velocity_scaling: 0.3
+    max_acceleration_scaling: 0.3
+    waypoints: >-
+      [
+        {"label": "home_above", "x": 0.300, "y": 0.000, "z": 0.550, "qx": 0.0, "qy": 0.7071, "qz": 0.0, "qw": 0.7071},
+        {"label": "left_mid",   "x": 0.200, "y": 0.350, "z": 0.400, "use_rpy": true, "roll": 0.0, "pitch": 90.0, "yaw": 0.0},
+        {"label": "right_mid",  "x": 0.200, "y": -0.350, "z": 0.400, "use_rpy": true, "roll": 0.0, "pitch": 90.0, "yaw": 0.0},
+        {"label": "forward_reach", "x": 0.550, "y": 0.000, "z": 0.300, "qx": 0.0, "qy": 0.7071, "qz": 0.0, "qw": 0.7071}
+      ]

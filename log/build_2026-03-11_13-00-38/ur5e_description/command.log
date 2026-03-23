@@ -1,0 +1,4 @@
+Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur5e_description -- -j16 -l16
+Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur5e_description -- -j16 -l16
+Invoking command in '/home/ianclark54/ur5e_ws/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur5e_description
+Invoked command in '/home/ianclark54/ur5e_ws/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur5e_description

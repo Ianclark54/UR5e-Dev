@@ -1,0 +1,32 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ur5e_waypoint_mover/srv/AddWaypoint.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Pose.idl"
+
+module ur5e_waypoint_mover {
+  module srv {
+    @verbatim (language="comment", text=
+      "Add a named Cartesian waypoint to the stored queue." "\n"
+      "Orientation as quaternion (qx, qy, qz, qw)." "\n"
+      "Use rpy_degrees=true to provide roll/pitch/yaw in degrees instead.")
+    struct AddWaypoint_Request {
+      string label;
+
+      geometry_msgs::msg::Pose pose;
+
+      boolean use_rpy;
+
+      double roll;
+
+      double pitch;
+
+      double yaw;
+    };
+    struct AddWaypoint_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

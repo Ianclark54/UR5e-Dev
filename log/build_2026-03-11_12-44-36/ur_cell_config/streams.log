@@ -1,0 +1,62 @@
+[0.032s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur_cell_config': AMENT_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy /usr/bin/cmake /home/ianclark54/ur5e_ws/src/UR5e_3DP/src/ur_cell_config -DCMAKE_INSTALL_PREFIX=/home/ianclark54/ur5e_ws/install/ur_cell_config
+[0.140s] -- The C compiler identification is GNU 13.3.0
+[0.412s] -- The CXX compiler identification is GNU 13.3.0
+[0.636s] -- Detecting C compiler ABI info
+[0.819s] -- Detecting C compiler ABI info - done
+[0.826s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.827s] -- Detecting C compile features
+[0.827s] -- Detecting C compile features - done
+[0.878s] -- Detecting CXX compiler ABI info
+[1.075s] -- Detecting CXX compiler ABI info - done
+[1.081s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.081s] -- Detecting CXX compile features
+[1.081s] -- Detecting CXX compile features - done
+[1.084s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.213s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.384s] -- Configuring done (1.3s)
+[1.390s] -- Generating done (0.0s)
+[1.392s] -- Build files have been written to: /home/ianclark54/ur5e_ws/build/ur_cell_config
+[1.397s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur_cell_config' returned '0': AMENT_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy /usr/bin/cmake /home/ianclark54/ur5e_ws/src/UR5e_3DP/src/ur_cell_config -DCMAKE_INSTALL_PREFIX=/home/ianclark54/ur5e_ws/install/ur_cell_config
+[1.399s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur_cell_config': AMENT_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur_cell_config -- -j16 -l16
+[1.444s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur_cell_config' returned '0': AMENT_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy /usr/bin/cmake --build /home/ianclark54/ur5e_ws/build/ur_cell_config -- -j16 -l16
+[1.445s] Invoking command in '/home/ianclark54/ur5e_ws/build/ur_cell_config': AMENT_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur_cell_config
+[1.453s] -- Install configuration: ""
+[1.455s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ament_index/resource_index/package_run_dependencies/ur_cell_config
+[1.455s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ament_index/resource_index/parent_prefix_path/ur_cell_config
+[1.456s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.sh
+[1.456s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.dsv
+[1.456s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/environment/path.sh
+[1.456s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/environment/path.dsv
+[1.457s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/local_setup.bash
+[1.457s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/local_setup.sh
+[1.457s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/local_setup.zsh
+[1.458s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/local_setup.dsv
+[1.458s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/package.dsv
+[1.458s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ament_index/resource_index/packages/ur_cell_config
+[1.459s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig.cmake
+[1.459s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig-version.cmake
+[1.459s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/package.xml
+[1.459s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch
+[1.460s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/rsp.launch.py
+[1.460s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/ursim.launch.py
+[1.460s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/static_virtual_joint_tfs.launch.py
+[1.460s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/warehouse_db.launch.py
+[1.460s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/demo.launch.py
+[1.461s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/moveit_rviz.launch.py
+[1.461s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/spawn_controllers.launch.py
+[1.461s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/move_group.launch.py
+[1.461s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/launch/setup_assistant.launch.py
+[1.461s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config
+[1.462s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/ros2_controllers.yaml
+[1.462s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/pilz_cartesian_limits.yaml
+[1.462s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/kinematics.yaml
+[1.462s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/initial_positions.yaml
+[1.462s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/moveit_controllers.yaml
+[1.463s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/ur5e.srdf
+[1.463s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/ur5e.ros2_control.xacro
+[1.463s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/sensors_3d.yaml
+[1.463s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/joint_limits.yaml
+[1.463s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/moveit.rviz
+[1.464s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/config/ur5e.urdf.xacro
+[1.464s] -- Installing: /home/ianclark54/ur5e_ws/install/ur_cell_config/share/ur_cell_config/.setup_assistant
+[1.467s] Invoked command in '/home/ianclark54/ur5e_ws/build/ur_cell_config' returned '0': AMENT_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ianclark54/ur5e_ws/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy /usr/bin/cmake --install /home/ianclark54/ur5e_ws/build/ur_cell_config

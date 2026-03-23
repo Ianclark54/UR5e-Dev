@@ -1,0 +1,4 @@
+# Returns all currently stored named waypoints.
+---
+string[] labels
+geometry_msgs/Pose[] poses
