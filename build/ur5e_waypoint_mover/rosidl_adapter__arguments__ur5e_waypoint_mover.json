@@ -1,9 +1,0 @@
-{
-  "package_name": "ur5e_waypoint_mover",
-  "non_idl_tuples": [
-    "/home/ianclark54/ur5e_ws/src/ur5e_waypoint_mover:srv/AddWaypoint.srv",
-    "/home/ianclark54/ur5e_ws/src/ur5e_waypoint_mover:srv/MoveToPoint.srv",
-    "/home/ianclark54/ur5e_ws/src/ur5e_waypoint_mover:srv/ExecuteWaypoints.srv",
-    "/home/ianclark54/ur5e_ws/src/ur5e_waypoint_mover:srv/ListWaypoints.srv"
-  ]
-}
