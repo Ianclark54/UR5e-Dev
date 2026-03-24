@@ -85,10 +85,10 @@ FLANGE_TO_TIP    = (0.0, 0.0, -0.150)   # metres, in base_link frame (tool point
 USE_BED_LEVELING = True
 BED_CORNERS = [
     # (x,      y,      z)   ← robot base_link frame, metres
-    (0.35,  -0.10,  -.55),  # corner 1
-    (0.6,  -0.10,  -.4),  # corner 2
-    (0.6,   0.10,  -.4),  # corner 3
-    (0.35,   0.10,  -.55),  # corner 4
+    (0.35,  -0.10,  -.05),  # corner 1
+    (0.6,  -0.10,  0.0),  # corner 2
+    (0.6,   0.10,  0.0),  # corner 3
+    (0.35,   0.10,  -.05),  # corner 4
 ]
 # ──────────────────────────────────────────────────────────────────────────────
 
