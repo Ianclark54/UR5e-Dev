@@ -1,0 +1,58 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config
+-- Install configuration: ""
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ament_index/resource_index/package_run_dependencies/ur_cell_config
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ament_index/resource_index/parent_prefix_path/ur_cell_config
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.sh
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/path.sh
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/path.dsv
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.bash
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.sh
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.zsh
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.dsv
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/package.dsv
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ament_index/resource_index/packages/ur_cell_config
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig.cmake
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig-version.cmake
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/package.xml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/moveit_rviz.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/rsp.launch.py
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/ur5e_real_rsp.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/move_group.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/spawn_controllers.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/setup_assistant.launch.py
+-- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/real_robot.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/ursim.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/static_virtual_joint_tfs.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/warehouse_db.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/demo.launch.py
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ur5e.ros2_control.xacro
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/moveit_controllers.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ur5e.srdf
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/kinematics.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/moveit.rviz
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ros2_controllers.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/pilz_cartesian_limits.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ur5e.urdf.xacro
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/joint_limits.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/sensors_3d.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/initial_positions.yaml
+-- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/.setup_assistant

@@ -1,0 +1,45 @@
+[0.004s] Invoking command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config': CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description:/home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config -- -j16 -l16
+[0.027s] Invoked command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config' returned '0': CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description:/home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config -- -j16 -l16
+[0.028s] Invoking command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config': CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description:/home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config
+[0.032s] -- Install configuration: ""
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ament_index/resource_index/package_run_dependencies/ur_cell_config
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ament_index/resource_index/parent_prefix_path/ur_cell_config
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.sh
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.dsv
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/path.sh
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/environment/path.dsv
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.bash
+[0.032s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.sh
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.zsh
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/local_setup.dsv
+[0.033s] -- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/package.dsv
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ament_index/resource_index/packages/ur_cell_config
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig.cmake
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig-version.cmake
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/package.xml
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/moveit_rviz.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/rsp.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/ur5e_real_rsp.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/move_group.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/spawn_controllers.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/setup_assistant.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/real_robot.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/ursim.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/static_virtual_joint_tfs.launch.py
+[0.033s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/warehouse_db.launch.py
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/launch/demo.launch.py
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ur5e.ros2_control.xacro
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/moveit_controllers.yaml
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ur5e.srdf
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/kinematics.yaml
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/moveit.rviz
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ros2_controllers.yaml
+[0.034s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/pilz_cartesian_limits.yaml
+[0.035s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/ur5e.urdf.xacro
+[0.035s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/joint_limits.yaml
+[0.035s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/sensors_3d.yaml
+[0.035s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/config/initial_positions.yaml
+[0.035s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config/share/ur_cell_config/.setup_assistant
+[0.035s] Invoked command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config' returned '0': CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description:/home/iac933-admin/ur5e_ws_ian_testing/install/ur_cell_config DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian_testing/build/ur_cell_config

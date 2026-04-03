@@ -1,0 +1,45 @@
+[0.006s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/iac933-admin/ur5e_ws_ian/src/UR5e_3DP/src/ur5e_description -DCMAKE_INSTALL_PREFIX=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description
+[0.017s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.119s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.209s] -- Found urdf: 2.10.0 (/opt/ros/jazzy/share/urdf/cmake)
+[0.237s] -- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+[0.244s] -- Found xacro: 2.1.1 (/opt/ros/jazzy/share/xacro/cmake)
+[0.246s] -- Found ament_lint_auto: 0.17.4 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.326s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.326s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.326s] -- Added test 'lint_cmake' to check CMake code style
+[0.326s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.327s] -- Added test 'xmllint' to check XML markup files
+[0.328s] -- Configuring done (0.3s)
+[0.331s] -- Generating done (0.0s)
+[0.333s] -- Build files have been written to: /home/iac933-admin/ur5e_ws_ian/build/ur5e_description
+[0.336s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/iac933-admin/ur5e_ws_ian/src/UR5e_3DP/src/ur5e_description -DCMAKE_INSTALL_PREFIX=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description
+[0.337s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian/build/ur5e_description -- -j16 -l16
+[0.364s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian/build/ur5e_description -- -j16 -l16
+[0.371s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian/build/ur5e_description
+[0.376s] -- Install configuration: ""
+[0.376s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/urdf
+[0.376s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/urdf/ur5e.urdf.xacro
+[0.376s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/launch
+[0.376s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/launch/simulate.launch.py
+[0.376s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/rviz
+[0.376s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/rviz/ur5e.rviz
+[0.377s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/meshes
+[0.377s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/meshes/Toolhead_V3_Assembly.STL
+[0.380s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/meshes/VentionAssembly.STL
+[0.384s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ament_index/resource_index/package_run_dependencies/ur5e_description
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ament_index/resource_index/parent_prefix_path/ur5e_description
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/environment/ament_prefix_path.sh
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/environment/ament_prefix_path.dsv
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/environment/path.sh
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/environment/path.dsv
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/local_setup.bash
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/local_setup.sh
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/local_setup.zsh
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/local_setup.dsv
+[0.385s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/package.dsv
+[0.386s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ament_index/resource_index/packages/ur5e_description
+[0.386s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/cmake/ur5e_descriptionConfig.cmake
+[0.386s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/cmake/ur5e_descriptionConfig-version.cmake
+[0.386s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur5e_description/share/ur5e_description/package.xml
+[0.387s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian/build/ur5e_description

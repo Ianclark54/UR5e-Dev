@@ -1,0 +1,30 @@
+[0.007s] Invoking command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description -- -j16 -l16
+[0.032s] Invoked command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description -- -j16 -l16
+[0.038s] Invoking command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description
+[0.043s] -- Install configuration: ""
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/urdf
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/urdf/ur5e_real.urdf.xacro
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/urdf/ur5e.urdf.xacro
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/launch
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/launch/simulate.launch.py
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/rviz
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/rviz/ur5e.rviz
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/meshes
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/meshes/Toolhead_V3_Assembly.STL
+[0.043s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/meshes/VentionAssembly.STL
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ament_index/resource_index/package_run_dependencies/ur5e_description
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ament_index/resource_index/parent_prefix_path/ur5e_description
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/environment/ament_prefix_path.sh
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/environment/ament_prefix_path.dsv
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/environment/path.sh
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/environment/path.dsv
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/local_setup.bash
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/local_setup.sh
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/local_setup.zsh
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/local_setup.dsv
+[0.044s] -- Installing: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/package.dsv
+[0.044s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ament_index/resource_index/packages/ur5e_description
+[0.045s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/cmake/ur5e_descriptionConfig.cmake
+[0.045s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/cmake/ur5e_descriptionConfig-version.cmake
+[0.045s] -- Up-to-date: /home/iac933-admin/ur5e_ws_ian_testing/install/ur5e_description/share/ur5e_description/package.xml
+[0.045s] Invoked command in '/home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian_testing/build/ur5e_description

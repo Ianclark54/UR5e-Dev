@@ -1,0 +1,32 @@
+[0.005s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/iac933-admin/ur5e_ws_ian/src/UR5e_3DP/src/ur5e_description -DCMAKE_INSTALL_PREFIX=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description
+[0.043s] -- The C compiler identification is GNU 13.3.0
+[0.084s] -- The CXX compiler identification is GNU 13.3.0
+[0.095s] -- Detecting C compiler ABI info
+[0.157s] -- Detecting C compiler ABI info - done
+[0.165s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.165s] -- Detecting C compile features
+[0.165s] -- Detecting C compile features - done
+[0.172s] -- Detecting CXX compiler ABI info
+[0.243s] -- Detecting CXX compiler ABI info - done
+[0.250s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.251s] -- Detecting CXX compile features
+[0.251s] -- Detecting CXX compile features - done
+[0.259s] [31mCMake Error at CMakeLists.txt:9 (find_package):
+[0.259s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[0.259s]   has asked CMake to find a package configuration file provided by
+[0.259s]   "ament_cmake", but CMake did not find one.
+[0.259s] 
+[0.259s]   Could not find a package configuration file provided by "ament_cmake" with
+[0.259s]   any of the following names:
+[0.259s] 
+[0.259s]     ament_cmakeConfig.cmake
+[0.260s]     ament_cmake-config.cmake
+[0.260s] 
+[0.260s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[0.260s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[0.260s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[0.260s]   has been installed.
+[0.260s] 
+[0.260s] [0m
+[0.260s] -- Configuring incomplete, errors occurred!
+[0.262s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur5e_description' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/iac933-admin/ur5e_ws_ian/src/UR5e_3DP/src/ur5e_description -DCMAKE_INSTALL_PREFIX=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description

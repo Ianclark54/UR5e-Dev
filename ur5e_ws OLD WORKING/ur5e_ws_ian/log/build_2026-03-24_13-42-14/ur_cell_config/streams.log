@@ -1,0 +1,62 @@
+[0.005s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur_cell_config': AMENT_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/iac933-admin/ur5e_ws_ian/src/UR5e_3DP/src/ur_cell_config -DCMAKE_INSTALL_PREFIX=/home/iac933-admin/ur5e_ws_ian/install/ur_cell_config
+[0.047s] -- The C compiler identification is GNU 13.3.0
+[0.089s] -- The CXX compiler identification is GNU 13.3.0
+[0.101s] -- Detecting C compiler ABI info
+[0.166s] -- Detecting C compiler ABI info - done
+[0.173s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.174s] -- Detecting C compile features
+[0.174s] -- Detecting C compile features - done
+[0.181s] -- Detecting CXX compiler ABI info
+[0.252s] -- Detecting CXX compiler ABI info - done
+[0.259s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.259s] -- Detecting CXX compile features
+[0.260s] -- Detecting CXX compile features - done
+[0.262s] -- Found ament_cmake: 2.5.5 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.374s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.520s] -- Configuring done (0.5s)
+[0.522s] -- Generating done (0.0s)
+[0.524s] -- Build files have been written to: /home/iac933-admin/ur5e_ws_ian/build/ur_cell_config
+[0.528s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur_cell_config' returned '0': AMENT_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/iac933-admin/ur5e_ws_ian/src/UR5e_3DP/src/ur_cell_config -DCMAKE_INSTALL_PREFIX=/home/iac933-admin/ur5e_ws_ian/install/ur_cell_config
+[0.529s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur_cell_config': AMENT_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian/build/ur_cell_config -- -j16 -l16
+[0.554s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur_cell_config' returned '0': AMENT_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/iac933-admin/ur5e_ws_ian/build/ur_cell_config -- -j16 -l16
+[0.555s] Invoking command in '/home/iac933-admin/ur5e_ws_ian/build/ur_cell_config': AMENT_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian/build/ur_cell_config
+[0.560s] -- Install configuration: ""
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ament_index/resource_index/package_run_dependencies/ur_cell_config
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ament_index/resource_index/parent_prefix_path/ur_cell_config
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.sh
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/environment/ament_prefix_path.dsv
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/environment/path.sh
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/environment/path.dsv
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/local_setup.bash
+[0.561s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/local_setup.sh
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/local_setup.zsh
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/local_setup.dsv
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/package.dsv
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ament_index/resource_index/packages/ur_cell_config
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig.cmake
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/cmake/ur_cell_configConfig-version.cmake
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/package.xml
+[0.562s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/moveit_rviz.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/rsp.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/move_group.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/spawn_controllers.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/setup_assistant.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/ursim.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/static_virtual_joint_tfs.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/warehouse_db.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/launch/demo.launch.py
+[0.563s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/ur5e.ros2_control.xacro
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/moveit_controllers.yaml
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/ur5e.srdf
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/kinematics.yaml
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/moveit.rviz
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/ros2_controllers.yaml
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/pilz_cartesian_limits.yaml
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/ur5e.urdf.xacro
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/joint_limits.yaml
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/sensors_3d.yaml
+[0.564s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/config/initial_positions.yaml
+[0.565s] -- Installing: /home/iac933-admin/ur5e_ws_ian/install/ur_cell_config/share/ur_cell_config/.setup_assistant
+[0.566s] Invoked command in '/home/iac933-admin/ur5e_ws_ian/build/ur_cell_config' returned '0': AMENT_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/iac933-admin/ur5e_ws_ian/install/ur5e_description:/opt/ros/jazzy/opt/sdformat_vendor:/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_tools_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/iac933-admin/ur5e_ws_ian/build/ur_cell_config
